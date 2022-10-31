@@ -1,5 +1,5 @@
 ## Run the code with Telnet
-First go to "cmd" directory, and then go to the "cal_telnet" directory, and then go to the "server" directory and run the  file
+First go to "cmd" directory, and then go to the "cal_telnet" directory, and then go to the "server" directory and run the  file.
 
 ## Run the code with gRPC
 First go to "cmd" directory, and then go to the "cal_grpc" directory, 
